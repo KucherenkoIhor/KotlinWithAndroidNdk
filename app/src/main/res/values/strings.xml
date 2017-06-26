@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InMemoryStorage</string>
+
+    <string-array name="types_array">
+        <item>String</item>
+        <item>Integer</item>
+        <item>Float</item>
+        <item>Object</item>
+    </string-array>
+
+</resources>
