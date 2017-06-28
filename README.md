@@ -1,4 +1,4 @@
-# Android NDK. Interraction Kotlin with C/C++
+# Android NDK. Interaction Kotlin with C/C++
 ![](https://cdn-images-1.medium.com/max/1600/1*3x1QE3VzG5MWi5Qk6C-HLQ.gif)
 
 
